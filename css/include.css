@@ -1,0 +1,27 @@
+/*header*/
+#header{
+    background-color: #fff;
+    text-align: center;
+    width:100%;
+    padding-top:15px;
+    padding-bottom: 5px;
+    position: fixed;
+    z-index: 1;
+    top:0;
+}
+/*navigation*/
+#fp-nav ul li a span,.fp-slidesNav ul li a span{
+    background: #9dc8c8;
+}
+#fp-nav ul li a.active span{
+    background: #519d9e;
+}
+#fp-nav ul li .fp-tooltip{
+    color: #0f1f1f;
+}
+/*footer*/
+#section5{
+    text-align: center;
+    font-size: 12px;
+    padding: 60px 0;
+}

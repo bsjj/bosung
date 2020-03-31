@@ -1,0 +1,27 @@
+@charset "uft-8";
+
+body,h1,h2,h3,h4,h5,h6,dl,dd,p{
+    margin: 0;
+    font-family: 's-core_dream3_light';
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+        color:#333;
+}
+
+.cf:after{
+    content: "";
+    display: block;
+    clear:both;
+}
+
+#wrap{
+    width:100%;
+}
